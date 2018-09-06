@@ -19,5 +19,5 @@ Modelo para desenvolvimento de aplicações em reactjs.
     * settings
     * services
       * api
-    index.js
-    Router.js
+    * index.js
+    * Router.js
